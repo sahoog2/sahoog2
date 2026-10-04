@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Gangadhar 👋
 
-<!--
-**sahoog2/sahoog2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Software engineer focused on building and understanding
+modern software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Python
+- LLM applications
+- Data Engineering
+- Apache Spark
+- Java
+- SQL
+- Distributed Systems
+
+## Learning
+
+I'm currently building hands-on projects across multiple
+technology stacks and documenting the engineering concepts
+behind them.
+
+## Featured Projects
+
+Projects will be added here as they mature into
+portfolio-quality work.
+
+## Technologies
+
+Python • Java • SQL • Apache Spark • Git • Linux • WSL
